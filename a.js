@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+console.log(123)
